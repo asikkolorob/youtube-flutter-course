@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382819294028",
+    "project_id": "flutter-bd327",
+    "storage_bucket": "flutter-bd327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382819294028:android:030d8f7fb5a44566530de9",
+        "android_client_info": {
+          "package_name": "com.flutter_youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382819294028-1ft7nop9v410201qhth7mdakqogifvgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Kp_Zmb476X7qzHZcxpJmsImI5PpER40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382819294028-1ft7nop9v410201qhth7mdakqogifvgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
